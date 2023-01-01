@@ -1,2 +1,2 @@
 # Student-mangement-system-
-Using Visual basic and SQL server 
+Using Visual basic langugeage and SQL server 
